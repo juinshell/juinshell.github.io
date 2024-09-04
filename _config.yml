@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Junxiao Deng"
-description              : "[Site Settings description]"
+title                    : "Junxiao Deng(邓俊骁)"
+description              : "Ph.D. Student at Shanghai Jiao Tong University. Fosus on MLSys."
 repository               : "husterdjx/husterdjx.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,8 +22,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Junxiao Deng"
-  avatar           : "images/djx-weihai.png"
-  bio              : "[Site Author bio]"
+  avatar           : "images/djx-weihai.jpg"
+  bio              : "EPCC@SJTU"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 

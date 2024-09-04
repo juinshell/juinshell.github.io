@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Ph.D. student at [EPCC](http://epcc.sjtu.edu.cn/), Shanghai Jiao Tong University (SJTU), under the supervision of Prof. [Minyi Guo](https://cs.sjtu.edu.cn/~guo-my/). My research focuses on AI deployment optimization, including kernel optimization, hybrid deployment, and resource management.
+I am currently a Ph.D. student at [Emerging Parallel Computing Center(EPCC)](http://epcc.sjtu.edu.cn/), Shanghai Jiao Tong University (SJTU), under the supervision of [Prof. Minyi Guo](https://cs.sjtu.edu.cn/~guo-my/). My research focuses on ML deployment optimization, including kernel optimization, hybrid deployment, and resource management.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=6ZLEQ04AAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=6ZLEQ04AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
