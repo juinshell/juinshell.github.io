@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Junxiao Deng(邓俊骁)"
 description              : "Ph.D. Student at Shanghai Jiao Tong University. Fosus on MLSys."
-repository               : "husterdjx/husterdjx.github.io"
+repository               : "juinshell/juinshell.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : husterdjx # e.g., "github username"
+  github           : juinshell # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
