@@ -28,7 +28,7 @@ I am currently a Ph.D. student at [Emerging Parallel Computing Center(EPCC)](htt
 
 # 📝 Publications 
 - `IEEE TC 2024` \*Han Zhao, \***Junxiao Deng**, Weihao Cui, Quan Chen, Youtao Zhang, Deze Zeng, Minyi Guo. Adaptive Kernel Fusion for Improving the GPU Utilization while Ensuring QoS! It is also an expanded version of my Bachelor's Thesis.
-- `SCIENTIA SINICA Informationis 2024` Han Zhao, **Junxiao Deng**, Weihao Cui, Quan Chen, Deze Zeng, Jing Yang & Minyi Guo. Exploiting All Intra-SM Parallelism to Maximize the Throughput while Ensuring QoS.
+- `SSI 2024` Han Zhao, **Junxiao Deng**, Weihao Cui, Quan Chen, Deze Zeng, Jing Yang & Minyi Guo. Exploiting All Intra-SM Parallelism to Maximize the Throughput while Ensuring QoS.
 - `ATC 2024` Hao Wu, Yue Yu, **Junxiao Deng**, Shadi Ibrahim, Inria, Song Wu, Hao Fan, Ziyue Cheng, Hai Jin. StreamBox: A Lightweight GPU SandBox for Serverless Inference Workflow.
 - `IPDPS 2023` Hao Wu, **Junxiao Deng**, Hao Fan, Shadi Ibrahim, Song Wu, Hai Jin. QoS-Aware and Cost-Efficient Dynamic Resource Allocation for Serverless ML Workflows.
 
